@@ -14,3 +14,14 @@ Then load the lisp files using this command in **AutoCad/Civil3D**:
 AppLoad
 ```
 You can add the file to the startup content section, for automaticly load the each lisp in AutoCad startup.
+
+## Usage/Examples
+
+### PolyArea
+
+This lisp is used for calculate the total area of several seperate polygons.
+Call with this command:
+```
+polyarea
+```
+Then Select objects and hit ***Enter***
