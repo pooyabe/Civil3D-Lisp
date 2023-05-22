@@ -25,3 +25,11 @@ Call with this command:
 polyarea
 ```
 Then Select objects and hit ***Enter***
+
+### CopyCoordinates
+Using this lisp, you can copy the x an y coordinates of any point to clipboard.
+Command:
+```
+CopyCoordinate
+```
+Then click on a point.
